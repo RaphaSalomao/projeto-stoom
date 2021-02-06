@@ -1,0 +1,15 @@
+com\stoom\raphael\projetostoom\exception\ExceptionResponse.class
+com\stoom\raphael\projetostoom\vo\AddressVO.class
+com\stoom\raphael\projetostoom\exception\ResourceNotFoundException.class
+com\stoom\raphael\projetostoom\repository\AddressRepository.class
+com\stoom\raphael\projetostoom\model\Geometry.class
+com\stoom\raphael\projetostoom\model\Location.class
+com\stoom\raphael\projetostoom\services\AddressServices.class
+com\stoom\raphael\projetostoom\model\Geocode.class
+com\stoom\raphael\projetostoom\converter\DozerConverter.class
+com\stoom\raphael\projetostoom\controller\AddressController.class
+com\stoom\raphael\projetostoom\model\Results.class
+com\stoom\raphael\projetostoom\model\Address.class
+com\stoom\raphael\projetostoom\config\WebConfig.class
+com\stoom\raphael\projetostoom\ProjetoStoomApplication.class
+com\stoom\raphael\projetostoom\exception\handler\CustomizedResponseEntityExceptionManager.class
